@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-  Removes the N-able N-central Windows Agent and related components (no reinstall).
+  Removes the N-able N-central Windows Agent and related components.
 .NOTES
   Run elevated. Leaves AV Defender (EP* services) alone.
   Logs to C:\Temp\NCentralRemoval\
